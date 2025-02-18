@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -7,10 +6,9 @@
     <title>Document</title>
 </head>
 <body>
-<?php include_once "inclu/nav.php"; ?>
+<?php include_once "nav.php"; ?>
     <h1>Pagina Secundaria</h1>
-    <footer>
-        
-    </footer>
+    <?php include_once "footer.php"; ?>
+
 </body>
 </html>
