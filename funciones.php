@@ -25,3 +25,6 @@ $promedio=promedio_alumno(7,9,6);
 echo "el promedio es : .$promedio".'<br>';
 
 echo "el promedio es : ".promedio_alumno (7,9,10).'<br>';
+echo "el promedio es : ".promedio_alumno (5,8,10).'<br>';
+echo "el promedio es : ".promedio_alumno (9,10,4).'<br>';
+echo "el promedio es : ".promedio_alumno (7,8,8).'<br>';
